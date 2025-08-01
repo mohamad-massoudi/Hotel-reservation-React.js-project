@@ -7,6 +7,7 @@ function App() {
     <div>
       <Header />
       <LocationList />
+      <h1>json-server</h1>
     </div>
   );
 }
